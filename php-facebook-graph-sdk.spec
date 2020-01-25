@@ -1,5 +1,4 @@
 %define		php_min_version 5.4.0
-%include	/usr/lib/rpm/macros.php
 Summary:	Facebook SDK for PHP (v5)
 Name:		php-facebook-graph-sdk
 Version:	5.5.0
